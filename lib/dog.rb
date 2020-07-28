@@ -21,5 +21,5 @@ class Dog
       puts x
     end
   end
-  
+
 end
