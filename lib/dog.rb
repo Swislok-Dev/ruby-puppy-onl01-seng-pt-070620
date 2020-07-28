@@ -10,6 +10,8 @@ class Dog
 
   def self.all
     @@all
+    # Alternatively written
+    # @@all = []
   end
 
   def self.clear_all
