@@ -12,6 +12,6 @@ class Dog
   end
 
   def self.clear_all
-    @@all.unshift
+    @@all.unshift(self)
   end
 end
