@@ -13,6 +13,6 @@ class Dog
   end
 
   def self.clear_all
-    @@all.unshift(self)
+    self.@@all.Array.clear
   end
 end
